@@ -49,7 +49,8 @@
      ],
      "prettier/prettier": "error",
      "react/jsx-props-no-spreading": "off",
-     "import/prefer-default-export": "off"
+     "import/prefer-default-export": "off",
+     "camelcase": "off"
     },
     "settings": {
       "import/resolver": {
