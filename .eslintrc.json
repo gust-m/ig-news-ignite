@@ -50,7 +50,9 @@
      "prettier/prettier": "error",
      "react/jsx-props-no-spreading": "off",
      "import/prefer-default-export": "off",
-     "camelcase": "off"
+     "camelcase": "off",
+     "no-restricted-syntax": "off",
+     "no-case-declarations": "off"
     },
     "settings": {
       "import/resolver": {
