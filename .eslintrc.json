@@ -52,7 +52,8 @@
      "import/prefer-default-export": "off",
      "camelcase": "off",
      "no-restricted-syntax": "off",
-     "no-case-declarations": "off"
+     "no-case-declarations": "off",
+     "jsx-a11y/anchor-is-valid": "off"
     },
     "settings": {
       "import/resolver": {
